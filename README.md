@@ -15,8 +15,26 @@ __because this is for safety__
 2. two
 3. three
 
-[facebook.com] (https://facebook.com)
+---
 
-```javascript
-documet.getElementById("IdName").innerHTML = "Hello World";
+[facebook](https://www.facebook.com)
+
+---
+![Bild](https://placekitten.com/200/300)
+---
+
+`<div>hello</div>``
+
+---
+```Javascript
+document.getElementById("IdName").innerHTML = "Hello World";
+```
+
+---
 > Was man nicht weiß, das kann man lernen.
+---
+```bash
+```
+```python
+```
+---
